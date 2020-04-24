@@ -2,4 +2,4 @@
 
 <h2> Intro to jenkins </h2>
 
-<h3>  Welcome to Devops Classes </h3>
+<h3>  Welcome to Devops Class </h3>
